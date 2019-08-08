@@ -1,0 +1,8 @@
+kh02_2018_11_16_18_22_34	nv01	Nguyen Phu Truong	kh02	SP01	iphone 7	1	cai	apple	15,000,000	12,000,000	16/11/2018
+kh03_2018_11_16_22_39_28	nv01	Nguyen Phu Truong	kh03	SP02	iphone 8	2	cai	apple	18,000,000	16,000,000	16/11/2018
+kh02_2018_11_17_16_58_26	nv01	Nguyen Phu Truong	kh02	SP03	iphone xs max	5	cai	apple	32,000,000	30,000,000	17/11/2018
+kh01_2018_11_17_21_21_59	nv01	Nguyen Phu Truong	kh01	SP01	iphone 7	2	cai	apple	15,000,000	12,000,000	17/11/2018
+kh05_2018_11_18_18_37_42	nv02	Pham Phuc Vinh	kh05	SP07	iphone 8 plus	1	cai	apple	14,000,000	13,000,000	18/11/2018
+kh05_2018_11_18_18_37_42	nv02	Pham Phuc Vinh	kh05	SP06	iphone x 64gb	1	cai	apple	21,000,000	20,000,000	18/11/2018
+kh04_2018_11_18_18_38_18	nv02	Pham Phuc Vinh	kh04	SP10	MacBook Air 13inch	1	cai	apple	20,000,000	17,000,000	18/11/2018
+kh03_2018_11_18_18_48_00	nv04	Pham Xuan Manh	kh03	SP03	iphone xs max	1	cai	apple	32,000,000	30,000,000	18/11/2018

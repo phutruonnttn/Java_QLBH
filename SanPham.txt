@@ -1,0 +1,10 @@
+SP01	iphone 7	99	cai	apple	15,000,000	12,000,000
+SP02	iphone 8	107	cai	apple	13,000,000	12,000,000
+SP03	iphone xs max	8	cai	apple	32,000,000	30,000,000
+SP04	iphone 6	107	cai	apple	7,000,000	6,000,000
+SP05	ipad air mini 3	50	cai	apple	5,500,000	4,500,000
+SP06	iphone x 64gb	89	cai	apple	21,000,000	20,000,000
+SP07	iphone 8 plus	97	cai	apple	14,000,000	13,000,000
+SP08	ipad pro 9.7	98	cai	apple	85,000,000	8,000,000
+SP09	MacBook Pro 13inch	50	cai	apple	34,500,000	33,000,000
+SP10	MacBook Air 13inch	49	cai	apple	20,000,000	17,000,000
